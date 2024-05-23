@@ -23,13 +23,6 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(40%, 200px), 1fr ));
     gap:1.25rem;
-
-
-    /*grid-auto-flow: column;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    grid-column: 1/3; 
-    column-gap: 1.25rem;*/
 }
 
 .seccion-vertical .seccion__tarjetas .tarjeta a{
